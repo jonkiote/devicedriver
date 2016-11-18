@@ -44,8 +44,8 @@ Submission instructions <br>
     have to modify the test program so that your device 
     will work with it.  For example, you may have to 
     change the path in the "open" call to your particular 
-    device.
-    Note that the test program will first clear your device 
+    device.</p>
+    <p>Note that the test program will first clear your device 
     with a read.  Then goes through phases, where each 
     phase will write characters into the device, then 
     read characters into a buffer (buffer_out).  Also note 

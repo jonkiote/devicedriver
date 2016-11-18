@@ -62,16 +62,18 @@ Submission instructions <br>
     ./a.out > ee468proj3output <br>
     <br>
 3.  Put in a folder,  <br>
-    *  Your display output, e.g., ee468proj2output <br>
-    *  Source code of your device driver module <br>
-    *  Source code of your test.c program <br>
-    *  Makefile, so by typing make your code will compile and your module is ready to be inserted. <br>
+    -  Your display output, e.g., ee468proj2output <br>
+    -  Source code of your device driver module <br>
+    -  Source code of your test.c program <br>
+    -  Makefile, so by typing make your code will compile and your module is ready to be inserted. <br>
     <br>
     Your folder should have the name:  <br>
-*YourLastName-FirstName-Project3* 
-    Tarball and gzip it and upload into laulima. 
------------------- 
-End of instructions --------------------------- 
+        *YourLastName-FirstName-Project3*
+    Tarball and gzip it and upload into laulima. <br>
+    <br>
+------------------ End of instructions ---------------------------
+<br>
+
 You can find the following file in laulima
 /* EE 468:  Test for device driver project 
  * 

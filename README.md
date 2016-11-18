@@ -38,14 +38,14 @@ EE 468 Device Driver Project <br>
 <br>
 Submission instructions <br>
 <br>
-<p>1.  Attached is a test program, test.c 
+1.  Attached is a test program, test.c 
     This program will write and read characters to your 
     device, and display them using printf.  You may 
     have to modify the test program so that your device 
     will work with it.  For example, you may have to 
     change the path in the "open" call to your particular 
-    device.</p>
-    <p>Note that the test program will first clear your device 
+    device.<br>
+    Note that the test program will first clear your device 
     with a read.  Then goes through phases, where each 
     phase will write characters into the device, then 
     read characters into a buffer (buffer_out).  Also note 
@@ -53,7 +53,7 @@ Submission instructions <br>
     Then we can use the printf on buffer_out to print what's 
     been read from the device, i.e., the characters read 
     from the device will fill the beginning characters in 
-    buffer_out and the rest of the characters will be spaces.</p>
+    buffer_out and the rest of the characters will be spaces.<br>
     <br> 
 2.  Once you have your device working with the test 
     program, run the test program.  You should have displays 

@@ -25,7 +25,7 @@ http://www.tldp.org/LDP/lkmpg/2.6/html/lkmpg.html<br>
 <br>
 ASSIGNMENT:<br>
 <br>
-Build a memory device driver where the device is a stack of a maximum of 10 bytes.  Initially, the stack is empty.  When the stack is written to, the device will push ASCII lower-case alphabets from the user buffer into the stack.  For example, it will push bytes 'a' and 'k' but will not push bytes 'A', 'K', '*', or '2'. If the buffer becomes full then the driver will stop and return. <br>
+Build a memory device driver where the device is a stack of a maximum of 10 bytes.  Initially, the stack is empty.  When the stack is written to, the device will push ASCII lower-case alphabets from the user buffer into the stack.  For example, it will push bytes 'a' and 'k' but will not push bytes 'A', 'K', '\*', or '2'. If the buffer becomes full then the driver will stop and return. <br>
 <br>
 When reading the device driver, the driver will pull the bytes out of the stack and put it into the user buffer.  If the stack becomes empty then the driver will stop and return.<br>
 <br>
@@ -74,7 +74,7 @@ Submission instructions <br>
         <br>
     Tarball and gzip it and upload into laulima.
     <br>
------------------- End of instructions ---------------------------
+\------------------ End of instructions ---------------------------
 <br>
 
 You can find the following file in laulima

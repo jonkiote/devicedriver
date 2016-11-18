@@ -68,7 +68,7 @@ Submission instructions <br>
     *  Makefile, so by typing make your code will compile and your module is ready to be inserted. <br>
     <br>
     Your folder should have the name:  <br>
-YourLastName-FirstName-Project3 
+*YourLastName-FirstName-Project3* 
     Tarball and gzip it and upload into laulima. 
 ------------------ 
 End of instructions --------------------------- 

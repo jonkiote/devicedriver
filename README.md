@@ -67,9 +67,12 @@ Submission instructions <br>
     -  Source code of your test.c program <br>
     -  Makefile, so by typing make your code will compile and your module is ready to be inserted. <br>
     <br>
-    Your folder should have the name:  <br>
+    Your folder should have the name:  
+    <br>
         *YourLastName-FirstName-Project3*
-    Tarball and gzip it and upload into laulima. <br>
+        <br>
+        <br>
+    Tarball and gzip it and upload into laulima.
     <br>
 ------------------ End of instructions ---------------------------
 <br>

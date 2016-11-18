@@ -74,7 +74,7 @@ Submission instructions <br>
         <br>
     Tarball and gzip it and upload into laulima.
     <br>
-\------------------ End of instructions ---------------------------
+                            ------------------ **End of instructions** ---------------------------
 <br>
 
 You can find the following file in laulima<br>

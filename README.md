@@ -1,6 +1,6 @@
 # devicedriver
 Operating Systems: Project 2
-<h3>From EE468PDevDriverInstructions.pdf</h3>
+<h3><a href="https://laulima.hawaii.edu/access/content/attachment/MAN.75233.201710/Assignments/870596c8-9d52-4fd1-a5af-a3d7e34feadc/EE468PDevDriverInstructions.pdf">From EE468PDevDriverInstructions.pdf</a></h3>
 Assignment Instructions<br>
 You will build and test a Linux device driver.<br>
 <br>

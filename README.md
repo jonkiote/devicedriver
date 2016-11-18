@@ -1,7 +1,9 @@
 # devicedriver
 Operating Systems: Project 2
 <h3><a href="https://laulima.hawaii.edu/access/content/attachment/MAN.75233.201710/Assignments/870596c8-9d52-4fd1-a5af-a3d7e34feadc/EE468PDevDriverInstructions.pdf">From EE468PDevDriverInstructions.pdf</a></h3>
-Assignment Instructions<br>
+<br>
+<h2>Assignment Instructions</h2>
+<br>
 You will build and test a Linux device driver.<br>
 <br>
 As a warm up, build the memory driver described in the attached document “Writing device drivers in Linux” that 

@@ -1,5 +1,5 @@
 # devicedriver
-Operating Systems: Project 2
+(Operating Systems: Project 2)
 <h3><a href="https://laulima.hawaii.edu/access/content/attachment/MAN.75233.201710/Assignments/870596c8-9d52-4fd1-a5af-a3d7e34feadc/EE468PDevDriverInstructions.pdf">From EE468PDevDriverInstructions.pdf</a></h3>
 <br>
 <h2>Assignment Instructions</h2>
@@ -38,14 +38,14 @@ EE 468 Device Driver Project <br>
 <br>
 Submission instructions <br>
 <br>
-1.  <p>Attached is a test program, test.c 
+<p>1.  Attached is a test program, test.c 
     This program will write and read characters to your 
     device, and display them using printf.  You may 
     have to modify the test program so that your device 
     will work with it.  For example, you may have to 
     change the path in the "open" call to your particular 
-    device. </p>
-    <p>Note that the test program will first clear your device 
+    device.
+    Note that the test program will first clear your device 
     with a read.  Then goes through phases, where each 
     phase will write characters into the device, then 
     read characters into a buffer (buffer_out).  Also note 
